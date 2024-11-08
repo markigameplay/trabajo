@@ -1,0 +1,13 @@
+#visorContainer {
+    min-height: 500px;
+    opacity: 1;
+}
+
+#pdfViewer {
+    border: none;
+    min-height: 500px;
+}
+
+.container {
+    max-width: 1200px;
+} 
